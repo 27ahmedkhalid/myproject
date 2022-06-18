@@ -1,5 +1,2 @@
 # myproject
-first porject
-
-sec line
- 
+first project
